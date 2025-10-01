@@ -12,6 +12,7 @@ Se construye un flujo completo:
 
 ## 📂 Estructura del proyecto
 
+```bash
 arboles-caba/
 ├── data/                 # CSV con datos originales
 │   └── arbolado.csv
