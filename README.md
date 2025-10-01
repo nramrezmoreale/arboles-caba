@@ -20,7 +20,7 @@ arboles-caba/
 │   └── exploracion.ipynb
 ├── sql/                  # (Opcional) scripts SQL adicionales
 └── README.md             # Documentación
-
+```
 
 ---
 
