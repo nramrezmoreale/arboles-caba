@@ -13,12 +13,13 @@ Se construye un flujo completo:
 ## 📂 Estructura del proyecto
 
 arboles-caba/
-├── data/                   # CSV con datos originales
+├── data/                 # CSV con datos originales
 │   └── arbolado.csv
-├── notebooks/              # Notebooks de análisis
+├── notebooks/            # Notebooks de análisis
 │   └── exploracion.ipynb
-├── sql/                    # (Opcional) scripts SQL adicionales
-└── README.md               # Documentación
+├── sql/                  # (Opcional) scripts SQL adicionales
+└── README.md             # Documentación
+
 
 ---
 
