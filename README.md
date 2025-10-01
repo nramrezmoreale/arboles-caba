@@ -71,12 +71,16 @@ En Google Colab ya vienen instalados por defecto.
 ⸻
 
 📌 Notas
+```
+
 	•	El CSV supera los 50 MB, por lo que se gestiona con Git LFS.
 	•	Para reproducir el entorno localmente, asegurarse de tener instalado Git LFS:
   brew install git-lfs
   git lfs install
-
+```
 
 ✍️ Autores: Nicolás Paul  Ramírez Moreale y Camila Funes
+
 👨‍🏫 Profesor: Juan Carlos Cifuentes Durán
+
 📅 Proyecto académico – Programación Avanzada para Ciencia de Datos, Universidad de la Ciudad de Buenos Aires  (2025)
